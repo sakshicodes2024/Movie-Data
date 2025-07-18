@@ -73,7 +73,7 @@ Clean encoding issues in names if importing fails
 
 🙋‍♀️ Author
 Sakshi Sable
-📧 sakshisable703@email.com
+📧 sakshisable703@gmail.com
 🔗 GitHub: sakshicodes2024
 
 
